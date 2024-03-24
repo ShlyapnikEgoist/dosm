@@ -1,3 +1,6 @@
 [submodule "lab15_task1"]
 	path = lab15_task1
 	url = https://github.com/ShlyapnikEgoist/dosm_lab15_task1
+[submodule "reports"]
+	path = reports
+	url = https://github.com/ShlyapnikEgoist/dosm_reports.git
