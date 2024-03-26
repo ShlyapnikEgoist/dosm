@@ -7,3 +7,6 @@
 [submodule "lab15_task2"]
 	path = lab15_task2
 	url = https://github.com/ShlyapnikEgoist/dosm_lab15_task2
+[submodule "lab16_task1"]
+	path = lab16_task1
+	url = https://github.com/ShlyapnikEgoist/dosm_lab16_task1
